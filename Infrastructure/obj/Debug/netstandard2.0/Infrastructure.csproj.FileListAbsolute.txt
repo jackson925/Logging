@@ -1,0 +1,11 @@
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+C:\Users\jjackson\source\repos\SerilogDemo\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
